@@ -41,7 +41,7 @@
   z-index: 0;
 
 
-  img {
+  video {
     width: clamp(320px, 50%, 400px);
   }
 }
